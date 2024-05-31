@@ -63,6 +63,6 @@ Here is a recap of the steps we took for data preparation:
 ├── images
 ├── __init__.py
 ├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+├── presentation.pdf
+└── notebook.ipynb
 ```
